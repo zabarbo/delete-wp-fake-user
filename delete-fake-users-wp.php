@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Delete WP spam user
+ * Plugin Name: Delete WP Fake Users
  * Description: Plugin para gestionar usuarios falsos en wordpress.
  * Version: 1.0.0
  * Author: Victor Barboza
@@ -121,7 +121,7 @@ function umh_delete_users_without_name_and_orders() {
 add_action( 'admin_menu', function() {
     add_menu_page(
         'Gesti&oacute;n de Usuarios',
-        'Usuarios WooCommerce',
+        'Delete WP Fake Users',
         'manage_options',
         'umh_user_management',
         'umh_user_management_page'
