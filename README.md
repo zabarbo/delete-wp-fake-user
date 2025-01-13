@@ -39,7 +39,7 @@
     <li>Export all users to a CSV file for safekeeping.</li>
 </ul>
 <h2>Technical Requirements</h2>
-<p>To ensure proper functionality of the <strong>User Management Helper</strong> plugin, your system must meet the following requirements:</p>
+<p>To ensure proper functionality of this plugin, your system must meet the following requirements:</p>
 
 <ul>
     <li>
