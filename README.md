@@ -38,3 +38,36 @@
     <li>Delete users with a warning prompt and CSV backup option.</li>
     <li>Export all users to a CSV file for safekeeping.</li>
 </ul>
+<h2>Technical Requirements</h2>
+<p>To ensure proper functionality of this plugin, your system must meet the following requirements:</p>
+
+<ul>
+    <li>
+        <strong>WordPress Version:</strong> 5.8 or higher  
+        <em>(Recommended: Always use the latest stable version).</em>
+    </li>
+    <li>
+        <strong>WooCommerce Version:</strong> 6.0 or higher  
+        <em>(Required for order-related functionalities).</em>
+    </li>
+    <li>
+        <strong>PHP Version:</strong> 7.4 or higher  
+        <em>(Recommended: PHP 8.0 or higher for improved performance and security).</em>
+    </li>
+    <li>
+        <strong>Database:</strong> MySQL 5.7 or higher / MariaDB 10.3 or higher  
+        <em>(Ensure your database is compatible with WordPress and WooCommerce).</em>
+    </li>
+    <li>
+        <strong>Server Requirements:</strong>  
+        <ul>
+            <li>HTTPS support</li>
+            <li>cURL enabled</li>
+            <li>JSON support</li>
+        </ul>
+    </li>
+    <li>
+        <strong>User Roles:</strong> The plugin requires administrative privileges to access and modify user data.</li>
+</ul>
+
+<p>Before installing the plugin, verify that your hosting environment satisfies these requirements to avoid compatibility issues.</p>
